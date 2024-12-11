@@ -2,6 +2,8 @@
 
 This is an bug benchmark for evaluating automated program repair tools, including buggy and correct Java programs transformed from HumanEval dataset.
 
+For the original repo, please refer to https://github.com/lin-tan/clm
+
 ## Structure
 ```
 .
